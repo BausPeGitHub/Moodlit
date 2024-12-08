@@ -11,5 +11,5 @@ The hour of the alarm and the language of the application can be selected from t
 
 The communication between the sensors and the laptop is realized via Arduino Uno.
 
-#State diagram of the application!
-[NEADORMIT (1)](https://github.com/user-attachments/assets/ef9402e9-c429-42ae-9fa2-7d07c806f097)
+State diagram of the application
+![NEADORMIT (1)](https://github.com/user-attachments/assets/ef9402e9-c429-42ae-9fa2-7d07c806f097)
